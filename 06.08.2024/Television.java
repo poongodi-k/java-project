@@ -7,7 +7,7 @@ public class Television{
     boolean emiOption;
     int warranty;
     public void displayTvSize(){
-        System.out.println("The display details of selected television are given below:");
+        System.out.println1("The display details of selected television are given below:");
         System.out.println("Display type:" + " " + this.displayType +"\n"+ "Dimension:" + " " + this.dimension + "\n" + "Resolution:" + " " + this.resolution);
     }
     public void displayPrice(){
